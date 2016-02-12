@@ -12,7 +12,7 @@
             text-size-adjust: none;
 }
 
-head, script, style {
+head, script, style, title {
     display: none;
 }
 
